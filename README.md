@@ -7,18 +7,16 @@
 :file_folder: ***Repository structure***
 
 ```
-my-app/<br>
-├─ node_modules/<br>
-├─ public/<br>
-│  ├─ favicon.ico<br>
-│  ├─ index.html<br>
-│  ├─ robots.txt<br>
-├─ src/<br>
-│  ├─ index.css
-│  ├─ index.js
-├─ .gitignore
-├─ package.json
-├─ README.md
+wine-quality-regression/
+├─ assignment/
+│  ├─ Data_Science_Lab___Project_Assignment_Winter_2021_first_call.pdf
+├─ dataset/
+│  ├─ eval.tsv
+│  ├─ dev.tsv
+├─ report/
+│  ├─ report.pdf
+├─ code/
+│  ├─ code.ipnyb
 ```
 
 
