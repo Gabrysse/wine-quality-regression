@@ -6,7 +6,7 @@
 
 :file_folder: ***Repository structure***
 
-
+```
 my-app/<br>
 ├─ node_modules/<br>
 ├─ public/<br>
@@ -19,7 +19,7 @@ my-app/<br>
 ├─ .gitignore
 ├─ package.json
 ├─ README.md
-
+```
 
 
 
