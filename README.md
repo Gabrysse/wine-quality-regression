@@ -11,12 +11,12 @@ wine-quality-regression/
 ├─ assignment/
 │  ├─ Data_Science_Lab___Project_Assignment_Winter_2021_first_call.pdf
 ├─ code/
-│  ├─ code.ipnyb
+│  ├─ WineQualityRegression.ipynb
 ├─ dataset/
 |  ├─ dev.tsv
 │  ├─ eval.tsv
 ├─ report/
-│  ├─ report.pdf
+│  ├─ DSL_ProjectReport.pdf
 ```
 
 * ```assignment``` folder contains the assignment given by professors. It includes all the details to achieve the goal.
