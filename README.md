@@ -7,13 +7,13 @@
 :file_folder: ***Repository structure***
 
 
-my-app/
-├─ node_modules/
-├─ public/
-│  ├─ favicon.ico
-│  ├─ index.html
-│  ├─ robots.txt
-├─ src/
+my-app/<br>
+├─ node_modules/<br>
+├─ public/<br>
+│  ├─ favicon.ico<br>
+│  ├─ index.html<br>
+│  ├─ robots.txt<br>
+├─ src/<br>
 │  ├─ index.css
 │  ├─ index.js
 ├─ .gitignore
