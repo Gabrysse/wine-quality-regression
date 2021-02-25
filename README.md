@@ -6,10 +6,10 @@
 
 :file_folder: ***Repository structure***
 
-.<br/>
-├── dataset<br/>
+.  
+├── dataset  
 │   ├── dev.tsv<br/>
-│   └── eval.tsv<br/>
+│   └── eval.tsv
 ├── assignment<br/>
 │   └── Data_Science_Lab___Project_Assignment_Winter_2021_first_call.pdf<br/>
 └── report<br/>
