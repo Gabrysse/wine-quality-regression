@@ -4,17 +4,24 @@
 :arrow_forward: ***Goal***: build a regression pipeline to predict wine's quality given the content of the review.
 
 
-## :file_folder: ***Repository structure***
+:file_folder: ***Repository structure***
 
 ```
 wine-quality-regression/
 ├─ assignment/
 │  ├─ Data_Science_Lab___Project_Assignment_Winter_2021_first_call.pdf
-├─ dataset/
-│  ├─ eval.tsv
-│  ├─ dev.tsv
-├─ report/
-│  ├─ report.pdf
 ├─ code/
 │  ├─ code.ipnyb
+├─ dataset/
+|  ├─ dev.tsv
+│  ├─ eval.tsv
+├─ report/
+│  ├─ report.pdf
 ```
+
+* ```assignment``` folder contains the assignment given by professors. It includes all the details to achieve the goal.
+* ```code``` folder contains the python code.
+* ```dataset``` folder contains the dataset used. 
+  * ```dev.tsv``` is the development dataset (with the target column)
+  * ```eval.tsv``` is the evaluation dataset (without the target column).
+* ```report``` folder contains the report submitted with the code that summarise all the work done.
