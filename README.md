@@ -3,4 +3,7 @@
 
 :arrow_forward: ***Goal***: build a regression pipeline to predict wine's quality given the content of the review.
 
-:file_folder: ***Repository structure***: 
+
+:file_folder: ***Repository structure***
+
+
