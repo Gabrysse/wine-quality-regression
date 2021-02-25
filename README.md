@@ -1,4 +1,6 @@
 # Wine Quality Regression
-**Purpose**: University individual project
+***Purpose***: university individual project.
 
-***Context***: First semester of the first year of my Master degree in Data science and engineering @ Polito
+***Context***: first semester of the first year of my Master degree in Data science and engineering @ Polito.
+
+***Goal***: build a regression pipeline to predict wine's quality given the content of the review.
