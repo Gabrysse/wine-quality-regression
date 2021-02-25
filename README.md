@@ -24,4 +24,4 @@ wine-quality-regression/
 * ```dataset``` folder contains the dataset used. 
   * ```dev.tsv``` is the development dataset (with the target column)
   * ```eval.tsv``` is the evaluation dataset (without the target column).
-* ```report``` folder contains the report submitted with the code that summarise all the work done.
+* ```report``` folder contains the report submitted (along with the code) to summarise all the work that I have done. The report was written using Latex and the IEEE Conference LaTeX Template.
