@@ -18,17 +18,3 @@ wine-quality-regression/
 ├─ code/
 │  ├─ code.ipnyb
 ```
-
-
-
-
-
-.  
-|-- dataset<br>
-    |── dev.tsv<br>
-    └── eval.tsv<br>
-|-- assignment<br>
-    └── Data_Science_Lab___Project_Assignment_Winter_2021_first_call.pdf<br>  
-|-- report<br>
-    └── DSL_ProjectReport_Rosi.pdf<br>
-
